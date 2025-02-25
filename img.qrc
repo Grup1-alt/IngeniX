@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Img/logo.png</file>
+        <file>Img/klipartz.com (1).png</file>
+        <file>Img/klipartz.com (2).png</file>
+        <file>Img/klipartz.com (3).png</file>
+        <file>Img/klipartz.com (4).png</file>
+        <file>Img/klipartz.com (5).png</file>
+        <file>Img/klipartz.com (6).png</file>
+        <file>Img/klipartz.com (7).png</file>
+        <file>Img/klipartz.com (8).png</file>
+        <file>Img/klipartz.com (9).png</file>
+        <file>Img/klipartz.com.png</file>
+        <file>Img/Logo.qrc</file>
+        <file>Img/pngwing.com.png</file>
+    </qresource>
+</RCC>

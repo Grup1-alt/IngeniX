@@ -1,2 +1,2 @@
 # IngeniX
-Programa portatil tipo formulario 
+Programa portatil tipo formulario para la ayuda de estudiantes de las carrera de ingieneria

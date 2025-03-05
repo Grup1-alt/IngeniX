@@ -1,0 +1,119 @@
+numero_atomico;simbolo;elemento;peso;periodo;categoria;descridor;grupo
+1;H;Hidrogeno;1.008;1;No metales;Henry Cavendish;1
+2;He;Helio;4.0026;1;Gases Nobles;Pierre Jules Cesar Janssen, Joseph Norman;18
+3;Li;Litio;6.9674;2;Metales Alcalinos;Johan August Arfwedson;1
+4;Be;Berilio;9.0122;2;Metales Alcalinoterreos;Louis-Nicolas Vauquelin;2
+5;B;Boro;10.81;2;Metaloides;Humphry Davy, Gay-Lussac y L. J. Thenard;13
+6;C;Carbono;12.011;2;No metales;Antoine-Laurent de Lavoisier;14
+7;N;Nitrogeno;14.007;2;No metales;Daniel Rutherford;15
+8;O;Oxigeno;15.999;2;No metales;Carl Wilhelm Scheele, Joseph Priestley;16
+9;F;Fluor;18.998;2;Halogenos;Henri Moissan;17
+10;Ne;Neon;20.18;2;Gases Nobles;William Ramsay, Morris Travers;18
+11;Na;Sodio;22.9898;3;Metales Alcalinos;Humphry Davy;1
+12;Mg;Magnecio;24.3051;3;Metales Alcalinoterreos;Joseph Black, Humphry Davy;2
+13;Al;Aluminio;26.9815;3;Metales de postransicion;Hans Christian Ørsted;13
+14;Si;Silicio;28.085;3;Metaloides;Jöns Jacob Berzelius;14
+15;P;Fósforo;30.9738;3;No metales;Hennig Brand;15
+16;S;Azufre;32.0648;3;No metales;Antoine Lavoisier, Henning Brand;16
+17;Cl;Cloro;35.4521;3;Halogenos;Carl Wilhelm Scheele;17
+18;Ar;Argon;39.9478;3;Gases Nobles;Lord Rayleigh, William Ramsay;18
+19;K;Potasio;39.0983;4;Metales Alcalinos;Humphry Davy;1
+20;Ca;Calcio;40.0793;4;Metales Alcalinoterreos;Humphry Davy;2
+21;Sc;Escandio;44.9559;4;Metales de transicion;Lars Fredrik Nilson;3
+22;Ti;Titanio;47.8667;4;Metales de transicion;William Gregor;4
+23;V;Vanadio;50.9415;4;Metales de transicion;Andrés Manuel del Río;5
+24;Cr;Cromo;51.9961;4;Metales de transicion;Louis Nicolas Vauquelin;6
+25;Mn;Manganeso;54.938;4;Metales de transicion;Johann Gottlieb Gahn, Carl Wilhelm Scheele;7
+26;Fe;Hierro;55.8451;4;Metales de transicion;...;8
+27;Co;Cobalto;58.9332;4;Metales de transicion;Georg Brandt;9
+28;Ni;Niquel;58.6934;4;Metales de transicion;Axel Fredrik von Cronstedt;10
+29;Cu;Cobre;63.546;4;Metales de transicion;...;11
+30;Zn;Zinc;65.3778;4;Metales de transicion;Andreas Sigismund Marggraf;12
+31;Ga;Galio;69.7231;4;Metales de postransicion;Paul-Émile Lecoq de Boisbaudran;13
+32;Ge;Germanio;72.6298;4;Metaloides;Clemens Winkler;14
+33;As;Arsenico;74.9216;4;Metaloides;Alberto Magno;15
+34;Se;Selenio;78.9711;4;No metales;Jöns Jakob Berzelius;16
+35;Br;Bromo;79.9043;4;Halogenos;Antoine Jérôme Balard, Carl Jacob Löwig;17
+36;Kr;Kripton;83.798;4;Gases Nobles;William Ramsay, Morris Travers;18
+37;Rb;Rubidio;85.4677;5;Metales Alcalinos;Robert Bunsen, Gustav Kirchhoff;1
+38;Sr;Estroncio;87.6166;5;Metales Alcalinoterreos;Adair Crawford, William Cruickshank;2
+39;Y;Itrio;88.9058;5;Metales de transicion;Johan Gadolin;3
+40;Zr;Zirconio;91.2236;5;Metales de transicion;Martin Heinrich Klaproth;4
+41;Nb;Niobio;92.9064;5;Metales de transicion;Charles Hatchett;5
+42;Mo;Molibdeno;95.9488;5;Metales de transicion;Carl Wilhelm Scheele;6
+43;Tc;Tecnecio;97.4429;5;Metales de transicion;Carlo Perrier, Emilio Segrè;7
+44;Ru;Rutenio;101.0649;5;Metales de transicion;Karl Ernst Claus;8
+45;Rh;Rodio;102.9055;5;Metales de transicion;William Hyde Wollaston;9
+46;Pd;Paladio;106.4153;5;Metales de transicion;William Hyde Wollaston;10
+47;Ag;Plata;106.4153;5;Metales de transicion;...;11
+48;Cd;Cadmio;112.4138;5;Metales de transicion;Friedrich Stromeyer;12
+49;In;Indio;114.8183;5;Metales de postransicion;Ferdinand Reich;13
+50;Sn;Estaño;118.7101;5;Metales de postransicion;...;14
+51;Sb;Antimonio;121.7598;5;Metaloides;Jabir ibn Hayyan;15
+52;Te;Telurio;127.603;5;Metaloides;Franz-Joseph Müller von Reichenstein;16
+53;I;Yodo;126.9045;5;Halogenos;Bernard Courtois;17
+54;Xe;Xenon;131.294;5;Gases Nobles;William Ramsay, Morris Travers;18
+55;Cs;Cesio;132.905;6;Metales Alcalinos;Robert Bunsen, Gustav Kirchhoff;1
+56;Ba;Bario;137.3267;6;Metales Alcalinoterreos;Humphry Davy;2
+57;La;Lantano;138.9055;6;Lantanidos;Carl Gustaf Mosander;3
+58;Ce;Cerio;140.1157;6;Lantanidos;Jöns Jakob Berzelius, Wilhelm Hisinger;
+59;Pr;Praseodimio;140.9077;6;Lantanidos;Carl Auer von Welsbach;
+60;Nd;Neodimio;144.2416;6;Lantanidos;Carl Auer von Welsbach;
+61;Pm;Prometio;145.2295;6;Lantanidos;Charles D. Coryell, Jacob A. Marinsky, Lawrence E. Glendenin;
+62;Sm;Samario;150.3647;6;Lantanidos;Paul Emile Lecoq de Boisbaudran;
+63;Eu;Europio;151.9644;6;Lantanidos;Eugène-Anatole Demarçay;
+64;Gd;Gadolinio;157.2521;6;Lantanidos;Jean Charles Galissard de Marignac;
+65;Tb;Terbio;158.9254;6;Lantanidos;Carl Gustaf Mosander;
+66;Dy;Disprosio;162.4995;6;Lantanidos;Paul Emile Lecoq de Boisbaudran;
+67;Ho;Holmio;164.9303;6;Lantanidos;Jacques-Louis Soret, Marc Delafontaine, Teodor Cleve;
+68;Er;Erbio;167.2591;6;Lantanidos;Carl Gustaf Mosander;
+69;Tm;Tulio;168.9342;6;Lantanidos;Per Teodor Cleve;
+70;Yb;Iterbio;173.0541;6;Lantanidos;Jean Charles Galissard de Marignac;
+71;Lu;Lutecio;174.9668;6;Lantanidos;Georges Urbain, Carl Auer von Welsbach;
+72;Hf;Hafnio;178.485;6;Metales de transicion;George Charles de Hevesy, Dirk Coster;4
+73;Ta;Tantalo;180.9479;6;Metales de transicion;Anders Gustaf Ekeberg;5
+74;W;Wolframio;183.8418;6;Metales de transicion;Juan José Elhuyar, Fausto Elhuyar;6
+75;Re;Renio;186.2067;6;Metales de transicion;Walter Noddack, Ida Noddack, Otto Berg;7
+76;Os;Osmio;190.2249;6;Metales de transicion;Smithson Tennant;8
+77;Ir;Irdio;192.2161;6;Metales de transicion;Smithson Tennant;9
+78;Pt;Platino;195.0844;6;Metales de transicion;Antonio de Ulloa;10
+79;Au;Oro;196.9666;6;Metales de transicion;...;11
+80;Hg;Mercurio;200.5926;6;Metales de transicion;...;12
+81;Tl;Talio;204.3835;6;Metales de postransicion;William Crookes;13
+82;Pb;Plomo;207.2169;6;Metales de postransicion;...;14
+83;Bi;Bismuto;208.9804;6;Metales de postransicion;Claude François Geoffroy;15
+84;Po;Polonio;208.962;6;Metaloides;Pierre Curie, Marie Curie;16
+85;At;Astato;209.6021;6;Halogenos;Dale R. Corson, Kenneth Ross MacKenzie, Emilio Segre;17
+86;Rn;Radon;220.1901;6;Gases Nobles;Ernest Rutherford, Robert Bowie Owens;18
+87;Fr;Francio;223.0197;7;Metales Alcalinos;Marguerite Perey;1
+88;Ra;Radio;226.0325;7;Metales Alcalinoterreos;Pierre Curie, Marie Curie;2
+89;Ac;Actinio;227.0251;7;Actinido;Andre-Louis Debierne;3
+90;Th;Torio;232.038;7;Actinido;Jöns Jakob Berzelius;
+91;Pa;Protactinio;231.0359;7;Actinido;Lise Meitner, Otto Hahn;
+92;U;Uranio;238.0289;7;Actinido;Martin Heinrich Klaproth;
+93;Np;Neptunio;236.9815;7;Actinido;Edwin McMillan, Philip H. Abelson;
+94;Pu;Plutonio;244.0532;7;Actinido;Glenn T. Seaborg;
+95;Am;Americio;242.9341;7;Actinido;Glenn T. Seaborg;
+96;Cm;Curio;247.0924;7;Actinido;Glenn T. Seaborg, Ralph A. James, Albert Ghiorso;
+97;Bk;Berkelio;247.0781;7;Actinido;Glenn T. Seaborg, Albert Ghiorso;
+98;Cf;Californio;250.5137;7;Actinido;Stanley G. Thompson, Kenneth Street, Albert Ghiorso, Glenn T. Seaborg;
+99;Es;Einstenio;252.9784;7;Actinido;Albert Ghiorso;
+100;Fm;Fermio;256.8966;7;Actinido;Albert Ghiorso;
+101;Md;Mendelevio;258.7885;7;Actinido;Albert Ghiorso, Gregory R. Choppin, Stanley G. Thompson y Glenn T. Seaborg;
+102;No;Nobelio;260.6703;7;Actinido;Instituto Conjunto de Investigacion Nuclear de Dubna;
+103;Lr;Lawrencio;264.862;7;Actinido;Albert Ghiorso, Torbjørn Sikkeland, Almon Larsh, Robert M. Latimer;
+104;Rf;Rutherfordio;261.0;7;Metales de transicion;Instituto Conjunto de Investigacion Nuclear de Dubna, Laboratorio Nacional Lawrence Berkeley;4
+105;Db;Dubnio;268.1428;7;Metales de transicion;Instituto Conjunto de Investigacion Nuclear de Dubna, Laboratorio Nacional Lawrence Berkeley;5
+106;Sg;Seaborgio;269.0;7;Metales de transicion;Instituto Conjunto de Investigacion Nuclear de Dubna, Laboratorio Nacional Lawrence Berkeley;6
+107;Bh;Bohrio;270.133;7;Metales de transicion;Peter Armbruster y Gottfried Münzenberg;7
+108;Hs;Hasio;275.3816;7;Metales de transicion;Sociedad para la Investigacion de Iones Pesados de Alemania;8
+109;Mt;Meitnerio;278.1309;7;Metales de transicion;Sociedad para la Investigacion de Iones Pesados de Alemania;9
+110;Ds;Darsmstatio;281.0;7;Metales de transicion;Sociedad para la Investigacion de Iones Pesados de Alemania;10
+111;Rg;Roentgeni;282.0;7;Metales de transicion;Sociedad para la Investigacion de Iones Pesados de Alemania;11
+112;Cn;Copernicio;285.0;7;Metales de transicion;Sociedad para la Investigacion de Iones Pesados de Alemania;12
+113;Nh;Nihonio;286.0;7;Metales de postransicion;Laboratorio Riken;13
+114;Fl;Flerovio;289.0;7;Metales de postransicion;Instituto Conjunto de Investigacion Nuclear de Dubna;14
+115;Mc;Moscovio;288.0;7;Metales de postransicion;Instituto Conjunto de Investigacion Nuclear de Dubna;15
+116;Lv;Livermorio;293.0;7;Metales de postransicion;Instituto Conjunto de Investigacion Nuclear de Dubna, Laboratorio Nacional Lawrence Livermore;16
+117;Ts;Teneso;294.0;7;Halogenos;Instituto Conjunto de Investigacion Nuclear de Dubna;17
+118;Og;Oganeson;294.0;7;Gases Nobles;Instituto Conjunto de Investigacion Nuclear de Dubna;18

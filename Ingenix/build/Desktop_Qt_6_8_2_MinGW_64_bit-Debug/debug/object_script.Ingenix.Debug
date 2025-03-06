@@ -1,0 +1,10 @@
+debug/calculadora.o
+debug/main.o
+debug/mainwindow.o
+debug/segundaventana.o
+debug/tablaPeriodica.o
+debug/qrc_img.o
+debug/moc_calculadora.o
+debug/moc_mainwindow.o
+debug/moc_segundaventana.o
+debug/moc_tablaPeriodica.o

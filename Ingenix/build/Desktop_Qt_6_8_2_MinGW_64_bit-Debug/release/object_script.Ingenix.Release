@@ -1,0 +1,10 @@
+release/calculadora.o
+release/main.o
+release/mainwindow.o
+release/segundaventana.o
+release/tablaPeriodica.o
+release/qrc_img.o
+release/moc_calculadora.o
+release/moc_mainwindow.o
+release/moc_segundaventana.o
+release/moc_tablaPeriodica.o
